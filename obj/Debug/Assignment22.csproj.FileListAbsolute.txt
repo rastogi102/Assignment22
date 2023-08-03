@@ -1,0 +1,8 @@
+F:\Training Stuff\Dot netTraining\DAY-19\Assignment22\Assignment22\bin\Debug\Assignment22.exe.config
+F:\Training Stuff\Dot netTraining\DAY-19\Assignment22\Assignment22\bin\Debug\Assignment22.exe
+F:\Training Stuff\Dot netTraining\DAY-19\Assignment22\Assignment22\bin\Debug\Assignment22.pdb
+F:\Training Stuff\Dot netTraining\DAY-19\Assignment22\Assignment22\obj\Debug\Assignment22.csproj.AssemblyReference.cache
+F:\Training Stuff\Dot netTraining\DAY-19\Assignment22\Assignment22\obj\Debug\Assignment22.csproj.SuggestedBindingRedirects.cache
+F:\Training Stuff\Dot netTraining\DAY-19\Assignment22\Assignment22\obj\Debug\Assignment22.csproj.CoreCompileInputs.cache
+F:\Training Stuff\Dot netTraining\DAY-19\Assignment22\Assignment22\obj\Debug\Assignment22.exe
+F:\Training Stuff\Dot netTraining\DAY-19\Assignment22\Assignment22\obj\Debug\Assignment22.pdb
